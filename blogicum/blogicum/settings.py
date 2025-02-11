@@ -46,7 +46,6 @@ CSRF_FAILURE_VIEW = 'pages.views.csrf_failure'
 # Application definition
 
 
-
 INSTALLED_APPS = [
     "pages.apps.PagesConfig",
     "blog.apps.BlogConfig",
